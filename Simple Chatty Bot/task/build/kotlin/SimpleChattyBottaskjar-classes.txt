@@ -1,0 +1,1 @@
+/Users/vsay/Documents/DevelopmentWorkspaces/IdeaProjects/Simple Chatty Bot/Simple Chatty Bot/task/build/classes/kotlin/main/bot/SimpleBotKt.class
